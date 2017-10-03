@@ -21,6 +21,7 @@ and open the template in the editor.
             }
             
             function  fantasma(){
+                
             }
         ?> 
         
