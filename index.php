@@ -16,6 +16,9 @@ and open the template in the editor.
             
             function  segonaFuncio(){
             }
+            
+            function  terceraFuncio(){
+            }
         ?> 
         
     </body>
