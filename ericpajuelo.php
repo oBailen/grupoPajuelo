@@ -14,7 +14,7 @@
             }
             
             function  tal(){
-                echo "Eric";
+                echo "Hola me llamo Eric";
             }
         ?> 
         
