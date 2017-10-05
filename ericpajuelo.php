@@ -10,6 +10,7 @@
             }
             
             function  que(){
+                echo "Soy el Mr. Ganzo, el heroe alado";
             }
             
             function  tal(){
