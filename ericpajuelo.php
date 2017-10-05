@@ -14,7 +14,7 @@
             }
             
             function  tal(){
-                echo "Eric";
+                echo "Eric es el señor de los patos";
             }
         ?> 
         
