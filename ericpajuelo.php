@@ -12,6 +12,7 @@
             }
             
             function  tal(){
+                echo "Eric";
             }
         ?> 
         
