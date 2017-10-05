@@ -6,6 +6,7 @@
     <body>
         <?php
             function  hola(){
+                echo "soy alba";
             }
             
             function  que(){
